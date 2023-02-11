@@ -1,2 +1,2 @@
 #!/bin/bash
-go=rx hello
+chmod +114 hello
