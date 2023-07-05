@@ -5,4 +5,4 @@
 *1-listit-this is a script that displays the contents list of the current directory
 *2-bring_me_home- this is a script that changes the working directory to the user's home directory
 *3-listfiles-this is a script that displays the current diectory contents in a long format
-*/
+*4-listmorefiles-this is a script tht displays the current directory contents, including hidden files(starting with .) and using the long formayt/
