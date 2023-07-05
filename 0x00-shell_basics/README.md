@@ -8,4 +8,5 @@
 *4-listmorefiles--- this is a script tht displays the current directory contents, including hidden files(starting with .) and using the long format
 *5-listfilesdigitonly---- this is a script that displays current directory contents in a long format, with user and group IDs displayed numerically and lastly with the hidden files (starting with .)
 *6-firstdirectory--- this is a script that creats a directory named my_first_directory in the /tmp/ directory
+*7-movethatfile--- this is a script that move the file betty from /tmp/ to /tmp/my_first_directory
 /
