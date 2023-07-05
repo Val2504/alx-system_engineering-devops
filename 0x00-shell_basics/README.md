@@ -13,4 +13,5 @@
 *9-firstdirdeletion--- this is a script that deletes a directory named my_first_directory from /tmp/
 *10-back--- this is a script that change the working directory to the previous one
 *11-lists--- this is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+*12-file_type--- this is a script that prints the type of file named iamafile. and the file will be in /tmp directory
 /
