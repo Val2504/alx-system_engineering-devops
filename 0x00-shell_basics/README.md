@@ -15,4 +15,5 @@
 *11-lists--- this is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 *12-file_type--- this is a script that prints the type of file named iamafile. and the file will be in /tmp directory
 *13-symbolic_link--- this is a script tat creates a symbolic lint to /bin/ls with a name _ls_
+*14-copy_html--- a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 /
